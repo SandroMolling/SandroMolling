@@ -63,7 +63,7 @@ Também estudo **inglês (nível B1)** na **Cult Idiomas** e estou sempre buscan
 ### 📬 Contato
 
 - ✉️ Email: **[mollingsandro@gmail.com]**
-- 💼 LinkedIn: **[adicione seu LinkedIn aqui]**
+- 💼 LinkedIn: **[www.linkedin.com/in/sandro-molling]**
 
 ---
 
