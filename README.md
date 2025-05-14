@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/banner.png" alt="Sandro Luis Werle Mollig - Banner" />
+  <img src="https://github.com/SandroMolling/SandroMolling/blob/main/Banner%20GitHub.png" alt="Sandro Luis Werle Mollig - Banner" />
 </p>
 
 <h1 align="center">👨‍💻 Sandro Luis Werle Mollig</h1>
