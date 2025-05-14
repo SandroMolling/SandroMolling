@@ -10,7 +10,7 @@
 
 ### 🧾 Sobre mim
 
-Olá! Sou o Sandro, tenho 18 anos e atualmente curso **Técnico em Informática para Internet** na [Escola Técnica Liberato Salzano Vieira da Cunha](https://liberato.com.br/). Estou construindo minha base sólida em desenvolvimento de software com foco em **Python**.
+Olá! Sou o Sandro, tenho 18 anos e atualmente curso **Técnico em Informática para Internet** na [Escola Técnica Liberato Salzano Vieira da Cunha](https://www.liberato.com.br). Estou construindo minha base sólida em desenvolvimento de software com foco em **Python**.
 
 Também estudo **inglês (nível B1)** na **Cult Idiomas** e estou sempre buscando novos conhecimentos por meio de cursos e projetos práticos.
 
@@ -62,7 +62,7 @@ Também estudo **inglês (nível B1)** na **Cult Idiomas** e estou sempre buscan
 
 ### 📬 Contato
 
-- ✉️ Email: **[adicione seu email aqui]**
+- ✉️ Email: **[mollingsandro@gmail.com]**
 - 💼 LinkedIn: **[adicione seu LinkedIn aqui]**
 
 ---
