@@ -60,18 +60,6 @@
 
 ---
 
-## 🔥 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=SandroMolling&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/SandroMolling/SandroMolling/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 📫 Contact
 
 <div>
