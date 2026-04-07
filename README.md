@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=3BF7B8&center=true&vCenter=true&width=700&lines=Technical+Student+%F0%9F%92%BB;Backend+Developer+in+Progress;Java+%7C+C%23+%7C+Python;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=3BF7B8&center=true&vCenter=true&width=700&lines=Technical+Student+💻;Backend+Developer+in+Progress;Java+%7C+C%23+%7C+Python;Always+Learning+New+Technologies)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,12 +10,11 @@
 
 ## 🚀 About Me
 
-🎓 I am **19 years old** and currently studying at  
-**Fundação Escola Técnica Liberato Salzano Vieira da Cunha (Liberato)** in Brazil.
+🎓 I am **19 years old** and currently studying at **Fundação Escola Técnica Liberato Salzano Vieira da Cunha** in Brazil.
 
-📚 I am enrolled in the **Technical Course in Internet Informatics**.
+💻 I am enrolled in the **Technical Course in Internet Informatics**.
 
-💡 I enjoy building software, learning new technologies and improving my development skills.
+🤖 I worked as a **Robotics Instructor at EJR Robótica Educacional**, teaching programming logic and robotics concepts to students.
 
 🌎 Based in **Rio Grande do Sul, Brazil**
 
@@ -25,7 +24,7 @@
 
 🇧🇷 Portuguese — Native  
 🇺🇸 English — B2 Level  
-🇩🇪 Hunsrückisch (Hunsrick) German Dialect  
+🇩🇪 Hunsrückisch German Dialect  
 
 ---
 
@@ -49,22 +48,13 @@
 
 ---
 
-## 📚 Currently Learning
-
-- Backend development
-- Software architecture
-- Improving Python knowledge
-- Improving English communication
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SandroMolling&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SandroMolling&show_icons=true&theme=tokyonight"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SandroMolling&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandroMolling&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -82,9 +72,15 @@
 
 ---
 
-## ⭐ Fun Fact
+## 📫 Contact
 
-I can speak and understand the **Hunsrückisch German dialect**, a traditional dialect spoken by German descendants in southern Brazil.
+<div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sandro-molling)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5551996469777)
+
+</div>
 
 ---
 
